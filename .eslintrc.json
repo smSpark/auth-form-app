@@ -44,16 +44,12 @@
         "object-curly-newline": 0,
         "implicit-arrow-linebreak": 0,
         "import/prefer-default-export": 0,
-        "import/no-unresolved": 0,
         "indent": [
             "error",
             2,
             {"SwitchCase": 1}
         ],
-        "linebreak-style": [
-            "error",
-            "unix"
-        ],
+        "linebreak-style": ["error", "windows"],
         "quotes": [
             "error",
             "double"
